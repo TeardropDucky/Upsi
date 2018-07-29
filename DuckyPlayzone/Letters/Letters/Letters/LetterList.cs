@@ -35,5 +35,15 @@ namespace Letters
 		{
 			return false;
 		}
+
+		public void PrintSortedAfterLetter()
+		{
+
+		}
+
+		public void PrintSortedAfterValue()
+		{
+			
+		}
 	}
 }

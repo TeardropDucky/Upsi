@@ -45,5 +45,10 @@ namespace Letters
 		{
 			
 		}
+
+		public bool Save()
+		{
+			return true;
+		}
 	}
 }
